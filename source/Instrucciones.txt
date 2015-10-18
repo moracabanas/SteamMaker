@@ -1,0 +1,5 @@
+ANTES DE EMPEZAR:
+- Crea un usuario local por ejemplo "Steam" con privilegios de administrador. Puedes buscar en panel de control, opciones de usuarios...etc
+- Inicia sesión en el nuevo usuario que has creado y continua con los pasos 1 y 2
+1. Copia esta carpeta en C:\ SIN CAMBIARLE EL NOMBRE. De otra manera no funcionará.
+2. Ejecuta el archivo "SetSteamShell.vbs"
