@@ -2,7 +2,7 @@ Instrucciones:
 
 1. Descarga e instala Steam, puedes descargarlo desde su página oficial http://store.steampowered.com/about
 
-2. Crea un usuario local SIN CONTRASEÑA en tu ordenador por ejemplo "Steam" con privilegios de administrador. Puedes buscar en panel de control, opciones de usuarios...etc
+2. Crea un usuario en tu ordenador llamado "Steam", sin escribir comillas, es importante que sea un usuario LOCAL se llame exactamente así respetando las mayusculas y minusculas. Debes crearlo SIN CONTRASEÑA y con PRIVILEGIOS DE ADMINISTRADOR. Puedes buscar en panel de control, opciones de usuarios...etc
 
 3 Inicia sesión en el nuevo usuario que has creado.
 
