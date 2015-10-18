@@ -1,5 +1,13 @@
-ANTES DE EMPEZAR:
-- Crea un usuario local por ejemplo "Steam" con privilegios de administrador. Puedes buscar en panel de control, opciones de usuarios...etc
-- Inicia sesión en el nuevo usuario que has creado y continua con los pasos 1 y 2
-1. Copia esta carpeta en C:\ SIN CAMBIARLE EL NOMBRE. De otra manera no funcionará.
-2. Ejecuta el archivo "SetSteamShell.vbs"
+Instrucciones:
+
+1. Descarga e instala Steam, puedes descargarlo desde su página oficial http://store.steampowered.com/about
+
+2. Crea un usuario local SIN CONTRASEÑA en tu ordenador por ejemplo "Steam" con privilegios de administrador. Puedes buscar en panel de control, opciones de usuarios...etc
+
+3 Inicia sesión en el nuevo usuario que has creado.
+
+4. Copia esta carpeta en C:\ SIN CAMBIARLE EL NOMBRE. De otra manera no funcionará.
+
+5. Ejecuta el archivo "SetSteamShell.vbs", se abre una ventana, selecciona la cuenta que has creado y desmarca la casilla, se abre otra ventana. Deja la contraseña en blanco y pulsa aceptar en ambas ventanas.
+
+Listo, reinicia y tu ordenador iniciatá con steam.
