@@ -1,0 +1,14 @@
+Installation:
+
+First make sure you have Steam installed, you can download it from the official website at "this" link.
+
+
+1. Create a user on your computer called "Steam", without writing quotes, it is important to be a local user and call it exactly that they are case sensitive. You must create it without a password and with administrator privileges. Look at the control panel, users options ... etc
+
+2. Log into the new user account (Steam) you created.
+
+3. Copy the "source" (yeah, called source) folder in C:\ without changing the name. Otherwise it won't work.
+
+4. Run "SetSteamShell.vbs" file, a window opens, select the user account "Steam" you've created before and uncheck the box at the top, another window opens. Leave the password blank and click OK in both windows.
+
+Ready, restart your computer and start to steam.
